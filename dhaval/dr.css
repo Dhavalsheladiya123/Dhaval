@@ -1,0 +1,21 @@
+.bg-dark{
+	background-color:#9f3d10 !important;
+}
+.form {
+	margin:left;
+}
+.btn{
+	background-color:#9f3d10 !important;
+}
+.td{
+	font-color:#9f3d10 !important;
+}
+.col-sm-5{
+	padding:30px;
+}
+.lead {
+
+    font-size: 1.25rem;
+    font-weight: 300;
+    padding-left: 16px;
+
